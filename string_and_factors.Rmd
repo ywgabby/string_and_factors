@@ -1,0 +1,7 @@
+---
+title: "string_and_factors"
+author: "Yaduo Wang"
+date: "2023-10-17"
+output: github_document
+---
+
